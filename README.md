@@ -1,52 +1,52 @@
-# Bright Data Datacenter Proxies
+# Bright Data データセンタープロキシ
 
-[![Promo](https://github.com/luminati-io/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/datacenter-proxies?promo=github15)
+[![Promo](https://github.com/luminati-io/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/proxy-types/datacenter-proxies?promo=github15)
 
 ## Overview
-Leverage Bright Data's extensive [datacenter proxy network](https://brightdata.com/proxy-types/datacenter-proxies) with unmatched scale and speed for reliable data collection and web scraping.
+比類ない規模と速度を備えた Bright Data の広範な [データセンタープロキシネットワーク](https://brightdata.jp/proxy-types/datacenter-proxies) を活用し、信頼性の高いデータ収集と Webスクレイピング を実現します。
 
-- **770,000+ Datacenter IPs**
-- **[Shared](https://brightdata.com/solutions/shared-proxies) and [Dedicated](https://brightdata.com/solutions/dedicated-proxies) IP Options**
-- **~0.24s Average Response Time**
-- **HTTP(S) & [SOCKS5](https://brightdata.com/solutions/socks5-proxies) Support**
-- **Free Country-Level Targeting**
+- **770,000+ データセンターIP**
+- **[共有](https://brightdata.jp/solutions/shared-proxies)および[専用](https://brightdata.jp/solutions/dedicated-proxies)IPオプション**
+- **平均レスポンスタイム 約0.24秒**
+- **HTTP(S) & [SOCKS5](https://brightdata.jp/solutions/socks5-proxies) 対応**
+- **国レベルのターゲティングが無料**
 
 ## Key Features
-- **Global Reach**: Access datacenter IPs across [98 countries](https://brightdata.com/locations).
-- **High Success Rates**: Achieve up to 99.9% success in scraping tasks.
-- **Fast and Reliable**: 99.99% network uptime and rapid connection speeds.
-- **Customizable Options**: Choose between shared or dedicated IPs based on your needs.
-- **Unlimited Scaling**: Support for concurrent sessions without restrictions.
+- **グローバルリーチ**: [98か国](https://brightdata.jp/locations) にわたるデータセンターIPへアクセスできます。
+- **高い成功率**: スクレイピングタスクで最大 99.9% の成功率を実現します。
+- **高速かつ信頼性が高い**: ネットワーク稼働率 99.99% と高速な接続速度を提供します。
+- **カスタマイズ可能なオプション**: ニーズに応じて共有IPまたは専用IPを選択できます。
+- **無制限のスケーリング**: 制限なく同時接続セッションをサポートします。
 
 ## Pricing Plans
-- **Pay As You Go**: $0.6/GB for a monthly commitment-free experience.
-- **Monthly Subscriptions - Shared**:
-  - **10 IPs**: $1.40/IP, $14/month + VAT.
-  - **100 IPs**: $1.00/IP, $100/month + VAT.
-  - **500 IPs**: $0.95/IP, $475/month + VAT.
-  - **1,000 IPs**: $0.90/IP, $900/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+- **Pay As You Go**: 月次コミット不要で $0.6/GB。
+- **月額サブスクリプション - 共有**:
+  - **10 IPs**: $1.40/IP、$14/月 + VAT。
+  - **100 IPs**: $1.00/IP、$100/月 + VAT。
+  - **500 IPs**: $0.95/IP、$475/月 + VAT。
+  - **1,000 IPs**: $0.90/IP、$900/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集向けに最適化されたソリューションです。
 
-- **Monthly Subscriptions - Dedicated**:
-  - **10 IPs**: $2.20/IP, $22/month + VAT.
-  - **100 IPs**: $1.70/IP, $170/month + VAT.
-  - **500 IPs**: $1.50/IP, $750/month + VAT.
-  - **1,000 IPs**: $1.30/IP, $1300/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+- **月額サブスクリプション - 専用**:
+  - **10 IPs**: $2.20/IP、$22/月 + VAT。
+  - **100 IPs**: $1.70/IP、$170/月 + VAT。
+  - **500 IPs**: $1.50/IP、$750/月 + VAT。
+  - **1,000 IPs**: $1.30/IP、$1300/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集向けに最適化されたソリューションです。
 
 
-- **Monthly Subscriptions - Pay/GB**:
-  - $0.51/GB, $499/month + VAT.
-  - $0.45/GB, $999/month + VAT.
-  - $0.42/GB, $1999/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+- **月額サブスクリプション - Pay/GB**:
+  - $0.51/GB、$499/月 + VAT。
+  - $0.45/GB、$999/月 + VAT。
+  - $0.42/GB、$1999/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集向けに最適化されたソリューションです。
 
-Sign up and get a dollar-for-dollar match on your first deposit, up to $500!
+登録して、初回入金額に対してドル建てで同額のマッチを受けられます（最大 $500 まで）！
 
 ## Getting Started with Datacenter Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Manage IPs and configurations with APIs or the Bright Data Control Panel.
-3. **Supported Languages**: Quick start guides available for Python, Java, C#, Node.js, and Shell.
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: API または Bright Data Control Panel で IP と設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell のクイックスタートガイドをご利用いただけます。
 
 ## Code Examples
 
@@ -133,38 +133,38 @@ curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]
 ```
 
 ## Integrations
-Our datacenter proxies are compatible with popular automation tools, including:
+当社のデータセンタープロキシは、以下を含む一般的な自動化ツールと互換性があります。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
 
 ## Use Cases
-Common applications for datacenter proxies:
+データセンタープロキシの一般的な用途:
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and product availability.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends and engagement.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Collect data on property listings.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare travel deals across locations.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格と商品の在庫状況を追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドとエンゲージメントをモニタリングします。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 物件リスティングに関するデータを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域ごとに旅行プランの取引条件を比較します。
 
 ## FAQ
 
-### What is a Datacenter Proxy?
-Datacenter proxies provide IPs assigned to servers, allowing you to change your IP and location for web scraping and other use cases.
+### Datacenter Proxy とは何ですか？
+データセンタープロキシはサーバーに割り当てられた IP を提供し、Webスクレイピング やその他の用途で IPアドレス とロケーションを変更できるようにします。
 
-### What are the advantages of Datacenter Proxies?
-Datacenter proxies are fast and cost-effective, ideal for simple data collection tasks, account management, and bypassing basic geo-restrictions.
+### Datacenter Proxies の利点は何ですか？
+データセンタープロキシは高速でコスト効率が高く、シンプルなデータ収集タスク、アカウント管理、基本的なジオ制限の回避に最適です。
 
-### How are Datacenter Proxies used by businesses?
-From competitive analysis to digital asset protection, datacenter proxies support a wide range of tasks across various industries.
+### 企業は Datacenter Proxies をどのように利用していますか？
+競合分析からデジタル資産の保護まで、データセンタープロキシはさまざまな業界における幅広いタスクを支援します。
 
-### Where are Bright Data's Datacenter Proxies located?
-Our proxies span 98 global locations, with high IP counts in the [USA](https://brightdata.com/locations/united-states), [Canada](https://brightdata.com/locations/ca), [UK](https://brightdata.com/locations/gb), [Germany](https://brightdata.com/locations/de), and [France](https://brightdata.com/locations/fr).
+### Bright Data の Datacenter Proxies はどこに配置されていますか？
+当社のプロキシは世界 98 のロケーションにまたがっており、[USA](https://brightdata.jp/locations/united-states)、[Canada](https://brightdata.jp/locations/ca)、[UK](https://brightdata.jp/locations/gb)、[Germany](https://brightdata.jp/locations/de)、[France](https://brightdata.jp/locations/fr) では特に多数の IP を提供しています。
 
-### Are Datacenter Proxies fast?
-Yes, with minimal routing, datacenter proxies offer fast connections, making them optimal for time-sensitive applications.
+### Datacenter Proxies は高速ですか？
+はい。ルーティングが最小限であるため、データセンタープロキシは高速な接続を提供し、時間にシビアな用途に最適です。
 
-### Should I use shared or dedicated Datacenter Proxies?
-Use dedicated proxies for exclusive access or shared proxies for cost-effective solutions to common scraping and testing tasks.
+### 共有と専用の Datacenter Proxies はどちらを使用すべきですか？
+専用アクセスが必要な場合は専用プロキシを、一般的なスクレイピングやテストタスクに対してコスト効率を重視する場合は共有プロキシをご利用ください。
