@@ -1,6 +1,6 @@
 # Bright Data データセンタープロキシ
 
-[![Promo](https://github.com/luminati-io/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/proxy-types/datacenter-proxies?promo=github15)
+[![Promo](https://github.com/bright-jp/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/proxy-types/datacenter-proxies?promo=github15)
 
 ## Overview
 比類ない規模と速度を備えた Bright Data の広範な [データセンタープロキシネットワーク](https://brightdata.jp/proxy-types/datacenter-proxies) を活用し、信頼性の高いデータ収集と Webスクレイピング を実現します。
